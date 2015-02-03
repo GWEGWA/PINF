@@ -1,0 +1,12 @@
+<?php
+
+//Varaibles de Sessions :
+$_SESSION["user"] = ...;
+$_SESSION["id"] = ...;
+$_SESSION["password"] = ...;
+
+/*
+*	Les variables sont en minuscules et en ANGLAIS, elles prennent une majuscule pour chaque nouveau mot
+*/
+
+?>
